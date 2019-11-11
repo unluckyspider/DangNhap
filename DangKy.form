@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="162" max="-2" attributes="0"/>
+                      <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="143" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jButton_DN" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="jButton_DK" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel_pwa" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel_sdt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel_email" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel_hoTen" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                              <Component id="jLabel_fb" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel_pw" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jTextField_PWA" pref="227" max="32767" attributes="0"/>
+                          <Component id="jTextField_Email" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextField_SDT" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextField_Ten" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextField_FB" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel_TBTEN" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel_TBEmail" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel_TBSDT" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTextField_PW" alignment="1" max="32767" attributes="0"/>
+                          <Component id="jLabel_TBFB" max="32767" attributes="0"/>
+                          <Component id="jLabel_TBPW" max="32767" attributes="0"/>
+                          <Component id="jLabel_PWA" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel_hoTen" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField_Ten" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel_TBTEN" min="-2" pref="13" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel_email" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField_Email" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel_TBEmail" min="-2" pref="11" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel_sdt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField_SDT" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel_TBSDT" min="-2" pref="13" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField_FB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel_fb" alignment="3" min="-2" pref="13" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel_TBFB" min="-2" pref="12" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField_PW" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel_pw" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Component id="jLabel_TBPW" min="-2" pref="15" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel_pwa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField_PWA" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel_PWA" min="-2" pref="14" max="-2" attributes="0"/>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+              <Component id="jButton_DK" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton_DN" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel_hoTen">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ho&#x323; T&#xea;n:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_email">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Email:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_fb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Facebook:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_sdt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SDT:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_pw">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Password:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_pwa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="nh&#xe2;&#x323;p la&#x323;i password:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_PWA">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_PW">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_FB">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_SDT">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_Email">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_Ten">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField_TenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton_DK">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton_DKActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x110;&#x103;ng Ky&#x301;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton_DN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D&#x103;ng Nh&#xe2;&#x323;p"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton_DNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_TBTEN">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_TBEmail">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_TBSDT">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_TBFB">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_TBPW">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_PWA">
+    </Component>
+  </SubComponents>
+</Form>
